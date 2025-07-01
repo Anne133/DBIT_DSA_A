@@ -5,6 +5,6 @@ def linear_search(list, target):
     return -1  
 
 
-numbers = [1, 2, 3, 4, 5]
+numbers = [1, 2, 3, 4, 5, 6]
 print(f"index:", linear_search(numbers, 3))   
   

@@ -8,4 +8,4 @@ def has_duplicates(list):
             j += 1
         i += 1
     return False
-print(has_duplicates([1, 2, 3, 4, 5]))   
+print(has_duplicates([1, 2, 2, 4, 5]))   

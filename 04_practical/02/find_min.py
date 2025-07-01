@@ -7,5 +7,5 @@ def find_max(list):
             max_value = num    
     return max_value
 
-numbers = [5, 4, 8, 1, 12]
+numbers = [5, 4, 8, 1, 11]
 print(find_max(numbers)) 
