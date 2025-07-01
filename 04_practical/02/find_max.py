@@ -7,5 +7,5 @@ def find_min(list):
             min_value = num    
     return min_value
 
-numbers = [5, 4, 8, 1, 12]
+numbers = [5, 4, 8, 1, 11]
 print(find_min(numbers)) 
